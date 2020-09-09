@@ -148,7 +148,7 @@ console.log(list.push('pushed again'));
 // console.log(list.unshift(40));
 // console.log(list.get(1));
 // console.log(list.set(1, 'yoyo'));
-console.log(list.insert(0, 'random'));
+// console.log(list.insert(0, 'random'));
 list.print();
 console.log(list.reverse())
 list.print();

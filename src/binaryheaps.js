@@ -31,4 +31,14 @@
  * For any child node at index n,
  *  its parent is at (n-1)/2 and floor it.
  *
+ * Big O of Binary Heaps
+ * Insertion: O(log n)
+ * Removal: O(log n)
+ * Search: O(n)
+ *
+ * Not made for search operations
+ *
+ * Useful for Sorting and implementing Priority Queues
+ * MaxBinaryHeaps or MinBinaryHeaps
+ * Using math, we can represent heaps using Arrays!
  */

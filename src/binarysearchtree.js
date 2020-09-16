@@ -56,12 +56,16 @@ class BinarySearchTree {
 }
 
 const tree = new BinarySearchTree();
-console.log(tree.insert(10));
-console.log(tree.insert(5));
-console.log(tree.insert(13));
-console.log(tree.insert(11));
-console.log(tree.insert(2));
-console.log(tree.find(2));
+// console.log(tree.insert(10));
+// console.log(tree.insert(5));
+// console.log(tree.insert(13));
+// console.log(tree.insert(11));
+// console.log(tree.insert(2));
+// console.log(tree.find(2));
+
+module.exports = {
+    BinarySearchTree
+};
 
 
 /**
